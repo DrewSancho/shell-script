@@ -13,3 +13,5 @@ rm -r deletme.txt
 echo 'The command line rules!' > index.html
 
 ls -la > README
+
+echo 'this is a change somewhere'
